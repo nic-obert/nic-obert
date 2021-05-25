@@ -1,5 +1,5 @@
-#### GitHub Statistics
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nic-obert&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&theme=chartreuse-dark&bg_color=0D1117"/></a><br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nic-obert&theme=monokai)
 
-#### Most Used Languages
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nic-obert&hide_title=true&hide_border=true&layout=compact&theme=chartreuse-dark&bg_color=0D1117"/></a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nic-obert&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nic-obert&theme=monokai)
