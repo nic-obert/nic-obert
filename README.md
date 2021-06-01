@@ -13,4 +13,4 @@ Objective-C   5 mins          ░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@6d21954a-6654-480c-8f41-93fb2a20e8b0/70562293-816a-4bb9-a03c-df7936a85989.svg"></embed></figure>
+![]("https://wakatime.com/share/@6d21954a-6654-480c-8f41-93fb2a20e8b0/70562293-816a-4bb9-a03c-df7936a85989.svg")
