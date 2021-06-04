@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 May, 2021 - 02 June, 2021
+Week: 27 May, 2021 - 03 June, 2021
 
 C++           19 hrs 7 mins   █████████████████████▓░░░   86.69 % 
 Makefile      1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
