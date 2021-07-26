@@ -42,14 +42,15 @@ I am willing to collaborate with you on your projects and I would be pleased if 
 
 ## Reach me on
 
-[<img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width=48>][medium]
-[<img src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667" width=48>][stackoverflow]
-[<img src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" width=48>][reddit]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Quora_icon.svg" width=48>][quora]
-[<img src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width=48>][telegram]
-[<img src="https://camo.githubusercontent.com/738abde95a3c033b2fbe7a56d2e9242fbdad99124b331d9739d1ad25f379e522/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736b7970652e737667" width=48>][skype]
+[<img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width=48 height=48>][medium]
+[<img src="https://api.iconify.design/akar-icons:stack-overflow-fill.svg?color=orange" width=48 height=48>][stackoverflow]
+[<img src="https://api.iconify.design/logos:reddit-icon.svg" width=48 height=48>][reddit]
+[<img src="https://api.iconify.design/bx:bxl-quora.svg?color=red" width=48 height=48>][quora]
+[<img src="https://api.iconify.design/logos:telegram.svg" width=48 height=48>][telegram]
+[<img src="https://api.iconify.design/logos:skype.svg" width=48 height=48>][skype]
+[<img src="https://api.iconify.design/logos:discord-icon.svg" width=48 height=48>][discord]
 
-<!-- [<img src="" width=48>][] -->
+<!-- [<img src="" width=48 height=48>][] -->
 
 [medium]: https://medium.com/@nic-obert
 [stackoverflow]: https://stackoverflow.com/users/11811412/nicholas-obert
@@ -57,5 +58,6 @@ I am willing to collaborate with you on your projects and I would be pleased if 
 [quora]: https://www.quora.com/profile/Nicholas-Obert-2
 [telegram]: https://t.me/nic_obert
 [skype]: https://join.skype.com/invite/n5msanzDhNET
+[discord]: https://discord.com/channels/nic#2519
 
 or email me at nchlsuba@gmail.com
