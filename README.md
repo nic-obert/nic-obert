@@ -28,6 +28,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
   <img src="https://api.iconify.design/logos:nodejs.svg" alt="NodeJS" width=48 height=48>
   <img src="https://api.iconify.design/vscode-icons:file-type-sqlite.svg" alt="SQLite" width=48 height=48>
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="PostgreSQL" width=48 height=48>
+  <img src="https://api.iconify.design/logos:heroku-icon.svg" alt="Heroku" width=48 height=48>
 </span>
 
 <br>
@@ -38,7 +39,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 <!-- <img src="" alt="" width=48 height=48> -->
 
 ## Open for collaboration
-I am willing to collaborate with you on your projects and I would be pleased if you joined me on mine.
+I am willing to collaborate. Contact me on nchlsuba@gmail.com or on the medias below.
 
 ## Reach me on
 
