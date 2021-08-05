@@ -64,4 +64,3 @@ I am willing to collaborate. Contact me on nchlsuba@gmail.com or on the medias b
 [skype]: https://join.skype.com/invite/n5msanzDhNET
 [discord]: https://discord.com/channels/nic#2519
 
-or email me at nchlsuba@gmail.com
