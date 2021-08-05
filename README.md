@@ -10,6 +10,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 ## Currently working on
 * [**Permalang Compiler**](https://github.com/nic-obert/permalang)
 * [**Database Management System**](https://github.com/nic-obert/nodedb)
+* [**Logging As A Service**](https://github.com/nic-obert/laas)
 
 ## Skills
 <span>
