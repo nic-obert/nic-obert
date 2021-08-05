@@ -22,6 +22,8 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
   <img src="https://api.iconify.design/logos:flutter.svg" alt="Flutter" width=48 height=48>
   <img src="https://api.iconify.design/logos:c.svg" alt="C" width=48 height=48>
   <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="C++" width=48 height=48>
+  <img src="https://api.iconify.design/logos:c-sharp.svg" alt="C#" width=48 height=48>
+  <img src="https://api.iconify.design/logos:unity.svg" alt="Unity" width=48 height=48>
   <img src="https://api.iconify.design/logos:git-icon.svg" alt="Git" width=48 height=48>
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="HTML" width=48 height=48>
   <img src="https://api.iconify.design/logos:flask.svg" alt="Flask" width=48 height=48>
@@ -35,7 +37,11 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 <br>
 <br>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7)
+<span>
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7)
+  <!--START_SECTION:top_language-->
+  <!--END_SECTION:top_language-->
+</span> 
   
 <!-- <img src="" alt="" width=48 height=48> -->
 
