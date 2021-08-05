@@ -38,7 +38,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 <br>
 
 <span>
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7">
   <!--START_SECTION:top_language-->
   <!--END_SECTION:top_language-->
 </span> 
