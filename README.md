@@ -40,7 +40,19 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7">
   <!--START_SECTION:top_language-->
-  <!--END_SECTION:top_language-->
+```text
+Java         256.75 KiB █████████░░░░░░░░░░░░░░░░   38.25 %
+C++          210.31 KiB ███████░░░░░░░░░░░░░░░░░░   31.33 %
+TypeScript    60.62 KiB ██░░░░░░░░░░░░░░░░░░░░░░░    9.03 %
+Python        54.77 KiB ██░░░░░░░░░░░░░░░░░░░░░░░    8.16 %
+Dart          22.34 KiB ░░░░░░░░░░░░░░░░░░░░░░░░░    3.33 %
+C             18.34 KiB ░░░░░░░░░░░░░░░░░░░░░░░░░    2.73 %
+Processing    17.68 KiB ░░░░░░░░░░░░░░░░░░░░░░░░░    2.63 %
+Shell         11.23 KiB ░░░░░░░░░░░░░░░░░░░░░░░░░    1.67 %
+HTML           6.38 KiB ░░░░░░░░░░░░░░░░░░░░░░░░░    0.95 %
+Batchfile      4.28 KiB ░░░░░░░░░░░░░░░░░░░░░░░░░    0.64 %
+```
+<!--END_SECTION:top_language-->
 </span> 
   
 <!-- <img src="" alt="" width=48 height=48> -->
