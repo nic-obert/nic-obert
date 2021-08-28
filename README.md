@@ -32,14 +32,16 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
   <img src="https://api.iconify.design/vscode-icons:file-type-sqlite.svg" alt="SQLite" width=48 height=48>
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="PostgreSQL" width=48 height=48>
   <img src="https://api.iconify.design/logos:heroku-icon.svg" alt="Heroku" width=48 height=48>
+  <img src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker" width=48 height=48>
 </span>
+
+<!-- <img src="" alt="" width=48 height=48> -->
 
 <br>
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7)
   
-<!-- <img src="" alt="" width=48 height=48> -->
 
 ## Open for collaboration
 I am willing to collaborate. Contact me on nchlsuba@gmail.com or on the medias below.
