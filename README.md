@@ -8,9 +8,6 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 * 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete
 
 ## Currently working on
-* [**Meinlang Compiler**](https://github.com/nic-obert/meinlang)
-* [**Database Management System**](https://github.com/nic-obert/nodedb)
-* [**Logging As A Service**](https://github.com/nic-obert/laas)
 * [**Virtual Machine**](https://github.com/nic-obert/virtual-machine)
 
 ## Worked with
