@@ -12,7 +12,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 * [**Database Management System**](https://github.com/nic-obert/nodedb)
 * [**Logging As A Service**](https://github.com/nic-obert/laas)
 
-## Skills
+## Worked with
 <span>
   <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=48 height=48>
   <img src="https://api.iconify.design/logos:python.svg" alt="Python" width=48 height=48>
