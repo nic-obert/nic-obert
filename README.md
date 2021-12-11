@@ -7,6 +7,10 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 * ✉️ **Email me at nchlsuba@gmail.com**
 * 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete
 
+
+[![Nicholas Obert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nic-obert)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Currently working on
 * [**Virtual Machine**](https://github.com/nic-obert/virtual-machine)
 
