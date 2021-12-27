@@ -36,6 +36,8 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="PostgreSQL" width=48 height=48>
   <img src="https://api.iconify.design/logos:heroku-icon.svg" alt="Heroku" width=48 height=48>
   <img src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker" width=48 height=48>
+  <img src="https://api.iconify.design/flat-color-icons:android-os.svg" alt="Android" width=48 height=48>
+</span>
 </span>
 
 <!-- <img src="" alt="" width=48 height=48> -->
