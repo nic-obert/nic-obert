@@ -14,6 +14,19 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 ## Currently working on
 * [**Booking System**](https://github.com/nic-obert/booking-system)
 
+## Most familiar with
+<span>
+  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=48 height=48>
+  <img src="https://api.iconify.design/logos:python.svg" alt="Python" width=48 height=48>
+  <img src="https://api.iconify.design/logos:c.svg" alt="C" width=48 height=48>
+  <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="C++" width=48 height=48>
+  <img src="https://api.iconify.design/logos:flask.svg" alt="Flask" width=48 height=48>
+  <img src="https://api.iconify.design/logos:heroku-icon.svg" alt="Heroku" width=48 height=48>
+  
+
+</span>
+
+
 ## Worked with
 <span>
   <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=48 height=48>
@@ -51,12 +64,10 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 ## Reach me on
 
 [<img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width=48 height=48>][medium]
-[<img src="https://api.iconify.design/logos:telegram.svg" width=48 height=48>][telegram]
 [<img src="https://api.iconify.design/logos:discord-icon.svg" width=48 height=48>][discord]
 
 <!-- [<img src="" width=48 height=48>][] -->
 
 [medium]: https://medium.com/@nic-obert
-[telegram]: https://t.me/nic_obert
 [discord]: https://discord.com/channels/nic#2519
 
