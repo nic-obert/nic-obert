@@ -12,7 +12,6 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 
 ## Currently working on
-* [**Virtual Machine**](https://github.com/nic-obert/virtual-machine)
 * [**Booking System**](https://github.com/nic-obert/booking-system)
 
 ## Worked with
