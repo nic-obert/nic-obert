@@ -13,7 +13,6 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 
 ## Currently working on
-* [**Relational Database Management System**](https://github.com/nic-obert/rdbms)
 
 ## Most familiar with
 <span>
