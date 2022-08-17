@@ -56,7 +56,16 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7)
-  
+
+<br>
+
+## Achievements
+
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b672c2a2-992c-486d-9f1f-542a86a970a5.jpg" width=512 alt="Database engineering Udemy course certificate">
+
+<br>
+
 ## Reach me on
 
 [<img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width=48 height=48>][medium]
