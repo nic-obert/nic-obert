@@ -59,7 +59,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 <br>
 
-## Achievements
+## Accomplishments
 
 
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b672c2a2-992c-486d-9f1f-542a86a970a5.jpg" width=512 alt="Database engineering Udemy course certificate">
