@@ -24,7 +24,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 </span>
 
-## Languages & Frameworks
+## Languages & Frameworks (worked with)
 <span>
   <img src="https://api.iconify.design/logos:python.svg" alt="Python" width=48 height=48>
   <img src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" width=48 height=48>
@@ -47,7 +47,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 | **Frontend**                                                                                                                                                                                  | **Backend**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="HTML" width=48 height=48><img src="https://api.iconify.design/logos:react.svg" alt="React" width=48 height=48> | <img src="https://api.iconify.design/logos:flask.svg" alt="Flask" width=48 height=48><img src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker" width=48 height=48> <img src="https://api.iconify.design/logos:nodejs.svg" alt="NodeJS" width=48 height=48><img src="https://api.iconify.design/logos:heroku-icon.svg" alt="Heroku" width=48 height=48> <img src="https://api.iconify.design/vscode-icons:file-type-sqlite.svg" alt="SQLite" width=48 height=48><img src="https://api.iconify.design/logos:postgresql.svg" alt="PostgreSQL" width=48 height=48> |
+| <img src="https://api.iconify.design/logos:react.svg" alt="React" width=48 height=48> | <img src="https://api.iconify.design/logos:flask.svg" alt="Flask" width=48 height=48><img src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker" width=48 height=48> <img src="https://api.iconify.design/logos:nodejs.svg" alt="NodeJS" width=48 height=48><img src="https://api.iconify.design/logos:heroku-icon.svg" alt="Heroku" width=48 height=48> <img src="https://api.iconify.design/vscode-icons:file-type-sqlite.svg" alt="SQLite" width=48 height=48><img src="https://api.iconify.design/logos:postgresql.svg" alt="PostgreSQL" width=48 height=48> |
 
 
 
@@ -56,7 +56,11 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 <br>
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7) -->
+### Most used programming languages:
+- Python
+- Rust
+- TypeScript
 
 <br>
 
