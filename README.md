@@ -58,11 +58,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 <br>
 <br>
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7) -->
-### Most used programming languages:
-- Python
-- Rust
-- TypeScript
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nic-obert&langs_count=7)
 
 <br>
 
