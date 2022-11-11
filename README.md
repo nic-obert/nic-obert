@@ -14,12 +14,14 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 ## Currently working on
 - [**Virtual Machine**](https://github.com/nic-obert/virtual-machine)
+- [**WaterScript**](https://github.com/nic-obert/waterscript)
 
 ## Most familiar with
 <span>
   <img src="https://api.iconify.design/logos:python.svg" alt="Python" width=48 height=48>
   <img src="https://api.iconify.design/logos:c.svg" alt="C" width=48 height=48>
   <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="C++" width=48 height=48>
+  <img src="https://api.iconify.design/vscode-icons:file-type-rust.svg" alt="Rust" width=48 height=48>
   
 
 </span>
