@@ -5,7 +5,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 * 🧠 **Machine Learning Enthusiast**
 * 📖 [**Medium Writer**][medium] (programming-related)
 * ✉️ **Email me at nchlsuba@gmail.com**
-* 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete
+* 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete, Amateur Blacksmith 🔨
 *  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=24 height=24> **Linux User** (I use Arco, btw)
 
 
