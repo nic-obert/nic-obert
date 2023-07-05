@@ -3,7 +3,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 * 💻 **Low Level Lover**
 * 🧠 **Machine Learning Enthusiast**
-* 📖 [**Medium Writer**][medium] (programming-related)
+* 📖 [**Medium Writer**][medium] (programming, psychology, philosophy)
 * ✉️ **Email me at nchlsuba@gmail.com**
 * 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete, Amateur Blacksmith 🔨
 *  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=24 height=24> **Linux User** (I use Arco, btw)
@@ -13,8 +13,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 
 ## Currently working on
-- [**Virtual Machine**](https://github.com/nic-obert/virtual-machine)
-- [**WaterScript**](https://github.com/nic-obert/waterscript)
+Currently on a break
 
 ## Most familiar with
 <span>
