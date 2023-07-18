@@ -1,11 +1,11 @@
 # **Nicholas Obert**
-I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
+I'm a **Student** passionate about **Tech**, **Science**, **Programming**, **Psychology**, **Philosophy**, and much more.
 
 * 💻 **Low Level Lover**
 * 🧠 **Machine Learning Enthusiast**
 * 📖 [**Medium Writer**][medium] (programming, psychology, philosophy)
 * ✉️ **Email me at nchlsuba@gmail.com**
-* 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete, Amateur Blacksmith 🔨
+* 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete, 🔨 Amateur Blacksmith, 📖 Writer
 *  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=24 height=24> **Linux User** (I use Arco, btw)
 
 
@@ -13,7 +13,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 
 ## Currently working on
-Currently on a break
+Currently on a break.
 
 ## Most familiar with
 <span>
