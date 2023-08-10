@@ -13,7 +13,8 @@ I'm a **Student** passionate about **Tech**, **Science**, **Programming**, **Psy
 
 
 ## Currently working on
-Currently on a break.
+
+- [**Easy VM**](https://github.com/nic-obert/easy-vm): Virtual machine and bytecode assembler (Rust)
 
 ## Most familiar with
 <span>
