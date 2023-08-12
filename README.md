@@ -15,6 +15,7 @@ I'm a **Student** passionate about **Tech**, **Science**, **Programming**, **Psy
 ## Currently working on
 
 - [**Easy VM**](https://github.com/nic-obert/easy-vm): Virtual machine and bytecode assembler (Rust)
+- [**Branchless Programming**](https://github.com/nic-obert/branchless_programming): Proof of concept programming challenge using no if/else, for/while loops, and conditional jumps.
 
 ## Most familiar with
 <span>
