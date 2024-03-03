@@ -3,7 +3,7 @@ I'm a **Student** passionate about **Tech**, **Science**, **Programming**, **Psy
 
 * 💻 **Low Level Lover**
 * 🧠 **Machine Learning Enthusiast**
-* 📖 [**Medium Writer**][medium] (programming, psychology, philosophy)
+* 📖 [**Medium Writer**](https://medium.com/@nic-obert) (programming, psychology, philosophy)
 * ✉️ **Email me at nchlsuba@gmail.com**
 * 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete, 🔨 Amateur Blacksmith, 📖 Writer
 *  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=24 height=24> **Linux User** (I use Arco, btw)
