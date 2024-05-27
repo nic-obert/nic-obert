@@ -15,7 +15,7 @@ I'm a **Student** passionate about **Tech**, **Science**, **Programming**, **Psy
 ## Currently working on
 
 - [**Rusty VM**](https://github.com/nic-obert/rusty-vm): Virtual machine and bytecode assembler (Rust, Assembly)
-- [**Branchless Programming**](https://github.com/nic-obert/branchless_programming): Proof of concept programming challenge using no if/else, for/while loops, and conditional jumps.
+- [**Stack VM**](https://github.com/nic-obert/stack-vm): Stack-based virtual machine and bytecode assembler (Rust, Assembly)
 
 ## Most familiar with
 <span>
