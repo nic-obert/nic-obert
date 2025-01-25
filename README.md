@@ -6,7 +6,7 @@ I'm a **Student** passionate about **Tech**, **Science**, **Programming**, **Psy
 * 📖 [**Medium Writer**](https://medium.com/@nic-obert) (programming, psychology, philosophy)
 * ✉️ **Email me at nchlsuba@gmail.com**
 * 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener, 💪 Calisthenics Athlete, 🔨 Amateur Blacksmith, 📖 Writer
-*  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=24 height=24> **Linux User** (I use Arco, btw)
+*  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=24 height=24> **Linux User** (I use Arch, btw)
 
 
 [![Nicholas Obert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nic-obert)](https://github.com/anuraghazra/github-readme-stats)
